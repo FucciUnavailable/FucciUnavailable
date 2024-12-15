@@ -9,9 +9,8 @@ Welcome to my GitHub! This account is all about showcasing clean, organized, and
 - 💞️ I’m open to collaborating on **backend projects**, **data-heavy apps**, and **creative problem-solving challenges**.  
 
 ### 📫 How to Reach Me  
-- 📧 [https://www.linkedin.com/in/amine-akacha-a97240340/]
-- 🌐 [Still in Development]  
-
+- 📧 https://www.linkedin.com/in/amine-akacha-a97240340/
+- 🌐 https://mohamed-akacha.vercel.app
 ### 🎯 Skills  
 - **Languages & Frameworks:** JavaScript, Node.js, Express, Python, React  
 - **Databases:** MongoDB, PostgreSQL, Mongoose  
