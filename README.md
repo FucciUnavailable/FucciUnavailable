@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @FucciUnavailable, this is technically a new Github Account made to showcase a clean portfolio (as opposed to my other github accounts which include all sorts of side and personal projects)
-- 👀 I’m interested in EVERYTHING I don't know, and I really don't know much
-- 🌱 I’m currently learning advanced javascript frameworks as well as scientific python
-- 💞️ I’m looking to collaborate on node projects, anything database related (sql or nosql), API development and more
-- 📫 How to reach me ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Did you know that Ants farm a type of fungus called Lepiotaceae which can process the nectar from leaves better than they can, the same way we farm cows? 
+# 👋 Hi, I’m @FucciUnavailable  
 
+Welcome to my GitHub! This account is all about showcasing clean, organized, and professional projects. My other GitHub accounts? Let's just say they're full of experiments, personal projects, and... chaos.  
+
+### 🚀 About Me  
+- 👀 I’m an insatiably curious learner, diving into **advanced JavaScript frameworks**, **scientific Python**, and whatever else I can get my hands on.  
+- 💻 I specialize in **Node.js**, **database design** (SQL & NoSQL), and **API development**.  
+- 🌱 Currently expanding my skills in **Docker**, **React**, and **system design**.  
+- 💞️ I’m open to collaborating on **backend projects**, **data-heavy apps**, and **creative problem-solving challenges**.  
+
+### 📫 How to Reach Me  
+- 📧 [https://www.linkedin.com/in/amine-akacha-a97240340/]
+- 🌐 [Still in Development]  
+
+### 🎯 Skills  
+- **Languages & Frameworks:** JavaScript, Node.js, Express, Python, React  
+- **Databases:** MongoDB, PostgreSQL, Mongoose  
+- **Other Tools:** Docker, Git, Bash, Linux, Tailwind CSS  
+- **Soft Skills:** Team collaboration, problem-solving, self-driven learning  
+
+### ⚡ Fun Fact  
+Did you know ants farm a type of fungus called *Lepiotaceae*? It's like their version of cow farming but with a symbiotic fungus that processes leaf nectar. Nature is amazing!  
