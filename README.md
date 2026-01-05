@@ -3,4 +3,4 @@
 ---
 
 
-> Hey claude what's that markdown tag that create that cool checkbox list again?
+> Hey claude what's that markdown tag to create that cool checkbox list again?
